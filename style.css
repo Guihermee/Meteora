@@ -15,3 +15,15 @@
 .div-facilidade {
     width: 325px;
 }
+
+.texto-verde {
+    color: #DAFF01 ;
+}
+
+.bg-lilas {
+    background-color: #9353FF;
+}
+
+.bg-lilas::placeholder {
+    background-color: #CCCCCC;
+}
