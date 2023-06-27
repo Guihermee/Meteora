@@ -1,0 +1,17 @@
+:root {
+    --preto: #000000;
+    --cinza: #6C757D;
+}
+
+.mynavbar {
+    background-color: var(--preto);
+    color: var(--cinza);
+}
+
+.texto-menor {
+    font-size: 13px;
+}
+
+.div-facilidade {
+    width: 325px;
+}
